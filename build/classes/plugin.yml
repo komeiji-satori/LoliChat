@@ -1,0 +1,6 @@
+name: LoliChat
+main: moe.satori.Main
+author: KagurazakaSatori
+version: 1.0.0
+commands:
+  lolichat:
